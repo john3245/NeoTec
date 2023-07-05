@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+}
+
+.navbar {
+    font-family: 'Montserrat', sans-serif;
+ color: white;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+
+  .textouwu {
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 10mm;
+margin-right: 10mm;
+  }
+
+  .wiwi {
+align-items: center;
+margin-bottom: auto;
+margin-right: 20mm;
+border-top-right-radius: 20mm;
+border-bottom-right-radius: 20mm;
+text-align: center;
+background-color: #232424;
+  }
+
+  .tiptext {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.card-title {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+
+.card-text {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+#uwueee {
+    align-items: center;
+    border-radius: 5mm;
+    margin-left: 30%;
+}
