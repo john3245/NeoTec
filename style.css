@@ -52,7 +52,7 @@ background-color: #232424;
 }
 
 #uwueee {
+      display: flex;
+    justify-content: center;
     align-items: center;
-    border-radius: 5mm;
-    margin-left: 30%;
 }
